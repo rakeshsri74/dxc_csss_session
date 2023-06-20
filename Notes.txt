@@ -1,0 +1,52 @@
+CSS:Cascade Style Sheet
+
+CSS is the language we use to style an HTML element.
+
+CSS describes how html elements should be displayed.
+
+What can CSS Do?
+	-Text Formatting
+	-Element Sizing
+	-Element Positioning
+	-Change Link Attribute
+	-Cursor Manipulation
+
+Types Of CSS
+	There are three type of CSS.
+		-Inline
+		-Embedded
+		-External
+
+The Basis of CSS layout:
+	The 3 core concepts to understand about css layout are:
+		1.The CSS box model
+			-Every block element in CSS is effectively inside a box and can have margins,padding and 			borders applied to it.
+				1.Content
+				2.Padding
+				3.Border
+				4.Margins
+		2.Floating
+		3.Positioning
+
+CSS pseudo - classes
+
+	selector:pseudo-class{
+			property:value;
+		}
+
+Selector:
+by element
+	p{
+	}
+by id
+	#id1{
+	}
+class selector
+	.myclass{
+	}
+Universal selector
+	*{
+	}
+grouping selector
+	H1,P,DIV{
+	}
